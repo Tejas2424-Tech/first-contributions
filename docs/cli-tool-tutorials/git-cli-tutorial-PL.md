@@ -8,9 +8,7 @@
 | <img alt="GitHub Desktop" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="200"> | GitHub Command Line Interface (CLI) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 
-To jest przewodnik dla nas, geeków terminala, którzy chcą robić wszystko w terminalu. Dzięki [Github-CLI](https://cli.github.com/), możemy to osiągnąć, pamiętając, że Twoja pierwsza kontrybucja powinna być przyjemna, satysfakcjonująca i motywować do dalszego działania\!
-
-Ten przewodnik jest nieco trudniejszy, ponieważ w ogóle nie używamy żadnego interfejsu graficznego, ale nadal jest naprawdę fajny i na pewno możesz za nim podążać\!
+To jest przewodnik dla nas, geeków terminala, którzy chcą robić wszystko w terminalu. Dzięki [Github-CLI](https://cli.github.com/), możemy to osiągnąć, pamiętając, że Twoja pierwsza kontrybucja powinna być przyjemna, satysfakcjonująca i motywować do dalszego działania\
 
 Pierwszymi wymaganiami jest posiadanie:
 
